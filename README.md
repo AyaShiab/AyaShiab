@@ -23,7 +23,9 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyaShiab)
  
- 
+
+ ### ⏱ **GitHub Streak Stats**
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=AyaShiab)](https://git.io/streak-stats)
   
   
   
